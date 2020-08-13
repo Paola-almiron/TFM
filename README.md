@@ -18,6 +18,7 @@ obs= los tipos de cultivos sometidos a estudio para el escenario de la alimentac
 
 ### RESULTADOS RELEVANTES
 
+
 ### CONCLUSIONES
 
 ### MANUAL DE USUARIO PARA EL FRONTEND
